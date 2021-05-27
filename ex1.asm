@@ -42,7 +42,4 @@ fim:
 	ecall		# Print
 	li a7, 4	# Syscall to print
 	la a0, ans
-	ecall		# Print
-	
-
-	
+	ecall		# Print	
